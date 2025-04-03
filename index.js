@@ -18,7 +18,7 @@ const rl = createInterface(process.stdin, process.stdout)
 // Aumenta il limite dei listener
 EventEmitter.defaultMaxListeners = 20;
 
-say('CHATUNITY\nBot\n3.0', {
+say('whatsapp-spam-italia\nBot\n3.0', {
     font: 'chrome',
     align: 'center',
     gradient: ['red', 'magenta']})
