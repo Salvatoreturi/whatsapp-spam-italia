@@ -28,7 +28,7 @@ ${finalPhrase}
             forwardedNewsletterMessageInfo: {
                 newsletterJid: '120363298520077920@newsletter',
                 serverMessageId: '',
-                newsletterName: `ChatUnity` // Utilizzo della variabile botName
+                newsletterName: `whatsapp-spam-italia` // Utilizzo della variabile botName
             },
         }
     };
