@@ -66,7 +66,7 @@ https://youtube.com/shorts/qek7wWadhtI?si=MrrA3bLWWAsLmpw6
       'forwardingScore': 0x1,
       'isForwarded': true,
       'forwardedNewsletterMessageInfo': {
-        'newsletterJid': "120363259442839354@newsletter",
+        'newsletterJid': "120363298520077920@newsletter",
         'serverMessageId': '',
         'newsletterName': 'ℝ𝕚𝕟𝕠𝕩ᵇᵒᵗ²⁴²✦'
       }

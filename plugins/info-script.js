@@ -2,7 +2,7 @@ import moment from 'moment-timezone';
 import fetch from 'node-fetch';
 
 let handler = async (m, { conn, args }) => {
-  let response = await fetch('https://api.github.com/repos/chatunitycenter/chatunity-bot');
+  let response = await fetch('https://api.github.com/repos/chatunitycenter/whatsapp-spam-italia');
   let repoData = await response.json();
 
   let messageText = `『💬』 ══ •⊰✰⊱• ══ 『💬』\n`;
@@ -21,7 +21,7 @@ let handler = async (m, { conn, args }) => {
       forwardingScore: 999,
       isForwarded: true,
       forwardedNewsletterMessageInfo: {
-        newsletterJid: '120363259442839354@newsletter',
+        newsletterJid: '120363298520077920@newsletter',
         serverMessageId: '',
         newsletterName: 'ChatUnity'
       }

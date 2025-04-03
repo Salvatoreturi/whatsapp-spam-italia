@@ -35,7 +35,7 @@ let info = `
 
 Segui questi passaggi per installare ChatUnity Bot correttamente su Termux
 
-repository termux https://github.com/chatunitycenter/chatunity-bot
+repository termux https://github.com/Salvatoreturi/whatsapp-spam-italia
 
 video yt tutorial https://youtube.com/shorts/qek7wWadhtI?si=MrrA3bLWWAsLmpw6
 
@@ -84,7 +84,7 @@ contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: nul
 title: '𝙸𝙽𝙵𝙾 𝙳𝙴𝙻 𝙱𝙾𝚃',
 body: 'ChatUnity',         
 previewType: 0, thumbnail: fs.readFileSync("./menu/Menu2.jpg"),
-sourceUrl: `https://github.com/chatunitycenter/chatunity-bot`}}})
+sourceUrl: `https://github.com/Salvatoreturi/whatsapp-spam-italia`}}})
 }
 handler.help = ['infobot', 'speed']
 handler.tags = ['info', 'tools']

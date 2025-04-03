@@ -63,7 +63,7 @@
 
 2. **Clona il repository**:
    ```bash
-   git clone https://github.com/chatunitycenter/chatunity-bot.git
+   git clone https://github.com/Salvatoreturi/whatsapp-spam-italia.git
    cd chatunity-bot
    ```
 
@@ -119,7 +119,7 @@
 
 2. **Clona il repository**:
    ```bash
-   git clone https://github.com/chatunitycenter/chatunity-bot
+   git clone https://github.com/Salvatoreturi/whatsapp-spam-italia
    cd chatunity-bot
    ```
 

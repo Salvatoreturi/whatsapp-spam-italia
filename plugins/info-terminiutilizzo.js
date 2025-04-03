@@ -12,7 +12,7 @@ const handler = async (message, { conn, usedPrefix }) => {
             forwardingScore: 1,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-                newsletterJid: '120363259442839354@newsletter',
+                newsletterJid: '120363298520077920@newsletter',
                 serverMessageId: '',
                 newsletterName: `${botName}`
             },
@@ -46,7 +46,7 @@ export default handler;
 
 function generateMenuText(prefix, botName, userCount) {
     return `
-*Tutte le informazioni menzionate qui non escludono il proprietario del bot e i Proprietari accreditati per l'uso di chatunity-bot*
+*Tutte le informazioni menzionate qui non escludono il proprietario del bot e i Proprietari accreditati per l'uso di whatsapp-spam-italia*
 *_Non siamo responsabili dell'ignoranza che potresti avere riguardo a queste informazioni._* 
 
 *TERMINI DI PRIVACY*
@@ -56,9 +56,9 @@ _- Ciò che fai con il Bot rimane a tuo carico, poiché nei numeri ufficiali la 
 
 _- È possibile che nei numeri ufficiali il Bot non sia attivo 24 ore su 24, 7 giorni su 7, ma ciò non implica che non lo sia o che i proprietari non ufficiali possano farlo._
 
-_- La chat anonima del comando #start, come suggerisce il nome, non mostrerà alcun dato degli utenti da parte di Chatunity-bot. Ciò non implica che le persone che utilizzano questa funzione possano condividere i loro dati nei numeri ufficiali._
+_- La chat anonima del comando #start, come suggerisce il nome, non mostrerà alcun dato degli utenti da parte di whatsapp-spam-italia. Ciò non implica che le persone che utilizzano questa funzione possano condividere i loro dati nei numeri ufficiali._
 
-_- I dati che Chatunity-bot ottiene dagli account ufficiali degli utenti, dai gruppi e dalle impostazioni degli stessi possono essere reinizializzati, modificati e/o rettificati per garantire che il Bot sia in condizioni ottimali per l'uso. (Gli utenti possono richiedere un risarcimento tramite Instagram o tramite il comando #Reporte. Devono presentare prove)._
+_- I dati che whatsapp-spam-italia ottiene dagli account ufficiali degli utenti, dai gruppi e dalle impostazioni degli stessi possono essere reinizializzati, modificati e/o rettificati per garantire che il Bot sia in condizioni ottimali per l'uso. (Gli utenti possono richiedere un risarcimento tramite Instagram o tramite il comando #Reporte. Devono presentare prove)._
 
 _- NON siamo responsabili se ci sono alterazioni di questo Bot da parte di numeri non ufficiali o se utilizzano un repository di GitHub che non corrisponde a quello ufficiale, o se implementano integrazioni di terze parti che compromettono gli utenti utilizzando versioni non ufficiali._
 
@@ -75,7 +75,7 @@ _- Quando fai una richiesta per l'ingresso in un gruppo con un account ufficiale
 
 _- Se ricevi una comunicazione ufficiale da un numero ufficiale, mantieni il rispetto. Allo stesso modo, se ricevi un messaggio senza aver usato un comando, mantieni il rispetto, poiché potrebbe trattarsi di una persona reale._
 
-_- Gli account ufficiali di Chatunity-bot non sono responsabili dell'uso che fai della funzione "Sub Bot"._
+_- Gli account ufficiali di whatsapp-spam-italia non sono responsabili dell'uso che fai della funzione "Sub Bot"._
 
 *CONDIZIONI DI USO*
 _- NON chiamare o effettuare videochiamate al Bot da numeri ufficiali, poiché ciò ostacola il funzionamento del Bot._
@@ -84,16 +84,16 @@ _- NON utilizzare il Bot da numeri ufficiali per compiere azioni ostili che potr
 
 _- NON utilizzare ripetutamente il comando SPAM, poiché potrebbe causare un malfunzionamento del Bot. Inoltre, non inviare al Bot messaggi che potrebbero comprometterne il funzionamento._
 
-_- Quando utilizzi determinati comandi che hanno l'obiettivo di causare disagio, inquietudine, fastidio o altri termini simili, verranno applicate le rispettive sanzioni o avvisi per preservare l'integrità degli utenti e il funzionamento di Chatunity-bot._
+_- Quando utilizzi determinati comandi che hanno l'obiettivo di causare disagio, inquietudine, fastidio o altri termini simili, verranno applicate le rispettive sanzioni o avvisi per preservare l'integrità degli utenti e il funzionamento di whatsapp-spam-italia._
 
 *QUESTO È IL REPOSITORIO UFFICIALE*
-https://github.com/chatunitycenter/chatunity-bot
+https://github.com/Salvatoreturi/whatsapp-spam-italia
 
 
 *DONA ALLA CREATRICE SU QUESTO ACCOUNT UFFICIALE*
 ~ _Se apprezzi e valorizzi il lavoro che ho svolto, puoi aiutarmi con una donazione per continuare questo progetto._
 *https://paypal.me/chatunity*
 
-*~ Grazie per aver dedicato del tempo a informarti su Chatunity-bot*
+*~ Grazie per aver dedicato del tempo a informarti su whatsapp-spam-italia*
 `.trim();
 }
